@@ -12,5 +12,3 @@
 #
 # See doc/COPYRIGHT.md for more details.
 #++
-
-require 'open_project/plugins'
