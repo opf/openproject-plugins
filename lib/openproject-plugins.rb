@@ -13,4 +13,7 @@
 # See doc/COPYRIGHT.md for more details.
 #++
 
-require 'open_project/plugins'
+ActiveSupport::Deprecation.warn <<-DEPRECATION_NOTE
+All functionality provided by openproject-plugins has now been integrated in OpenProject core.
+Please remove openproject-plugins from your Gemfile."
+DEPRECATION_NOTE
