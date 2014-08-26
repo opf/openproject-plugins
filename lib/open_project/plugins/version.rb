@@ -15,6 +15,6 @@
 
 module OpenProject
   module Plugins
-    VERSION = "3.0.12"
+    VERSION = "3.0.13"
   end
 end
