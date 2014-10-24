@@ -1,5 +1,0 @@
-module OpenProject
-  module <%= plugin_name.camelcase %>
-    VERSION = "0.0.1"
-  end
-end
