@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
 
   s.files = Dir["{lib, doc}/**/*"] + %w(README.md)
 
-  s.add_dependency "rails", "~> 3.2.9"
+  s.add_dependency 'rails', '~> 4.0.13'
 
   s.add_development_dependency 'rspec-rails'
   s.add_development_dependency 'cucumber-rails'
